@@ -105,9 +105,9 @@ nav a:first-child {
   position:absolute;
   top:0;
   right:0;
-  line-height: 300px;
+  line-height: 150px;
   padding:5px 15px 0px 15px;
-  color:purple;
+  color:black;
   border:0;
   font-size: 20px;
   font-weight:bold;
@@ -121,7 +121,7 @@ nav a:first-child {
   top:0px;
   right:0;
   padding:7px 15px 0px 15px;
-  color:#999;
+  color:black;
   border:0;
   font-size:20px;
   line-height:65px;
