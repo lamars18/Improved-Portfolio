@@ -106,7 +106,7 @@ nav a:first-child {
   top:0;
   right:0;
   line-height: 150px;
-  padding:5px 20px 5px 15px;
+  padding: 5px 15px 0px 15px;
   color: black;
   border:0;
   font-size: 20px;
