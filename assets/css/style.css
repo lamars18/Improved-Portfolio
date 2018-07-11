@@ -107,7 +107,7 @@ nav a:first-child {
   right:0;
   line-height: 150px;
   padding:5px 15px 0px 15px;
-  color:black;
+  color: black;
   border:0;
   font-size: 20px;
   font-weight:bold;
@@ -121,7 +121,7 @@ nav a:first-child {
   top:0px;
   right:0;
   padding:7px 15px 0px 15px;
-  color:black;
+  color: black;
   border:0;
   font-size:20px;
   line-height:65px;
@@ -140,7 +140,7 @@ nav a:first-child {
 .menu a:hover{text-decoration:none; color:#666;}
 
 .glyphicon-home{
-  color:white; 
+  color: white; 
   font-size:5em; 
   margin-top:5px; 
   margin:0 auto;
